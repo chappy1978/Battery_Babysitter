@@ -1,7 +1,8 @@
 SparkFun Battery Babysitter For Raspberry Pi
 ========================================
-This is a port of the Arduino examples for the Battery Babysitter and the Raspberry Pi. These examples have been tested on the Pi Zero W
-And require the installation of the WiringPi library. Instructions can be found on the WiringPi website. (http://wiringpi.com/download-and-install/)
+This is a port of the SparkFun examples for the Raspberry Pi. These examples have been tested on the Pi Zero W
+This version requires the installation of the WiringPi library. Instructions can be found on the WiringPi website.
+(http://wiringpi.com/download-and-install/)
 
 This port has been written by Jeff Chap @ chappy1978@yahoo.com
 https://github.com/chappy1978/Battery_Babysitter
